@@ -6,7 +6,7 @@ Aplicacion de carrito de compras sin base de datos, ya en el proximo video la in
 
 ![Codigo Alpha Flutter]
 
-![alt text](https://github.com/codigoalphacol/apprecipe/blob/master/recetasparte2_First_Frame.png)
+![alt text](https://github.com/codigoalphacol/carritodecompras/blob/master/comprashead.png)
 
 
 
